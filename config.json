@@ -1,7 +1,9 @@
 {
   "name": "VV",
-  "bio": "一个喜欢玩游戏，偶尔写代码的年轻人",
-  "avatar": "https://img.cdn1.vip/i/69fa1c1118cc4_1777998865.webp",
-  "background": "https://img.cdn1.vip/i/69fa263684ab1_1778001462.jpeg",
-  "music": "music.mp3"
+  "bio": "一个喜欢二次元和技术的人",
+  "avatar": "你的头像URL",
+  "background": "你的背景图URL",
+  "music": "music.mp3",
+  "github": "https://github.com/3353695529-sketch",
+  "bilibili": "https://space.bilibili.com/577581928?spm_id_from=333.1007.0.0"
 }
